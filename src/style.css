@@ -83,3 +83,8 @@ body {
 .text {
     padding: 20px;
 }
+
+.ul {
+    list-style: none;
+    display: flex;
+}
